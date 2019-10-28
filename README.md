@@ -1,4 +1,4 @@
-# Bigdata-and-Spark
+# Market analysis(Banking) using Bigdata-and-Spark
 Background and Objective:
 
 Your client, a Portuguese banking institution, ran a marketing campaign to convince potential customers to invest in a bank term deposit scheme. 
